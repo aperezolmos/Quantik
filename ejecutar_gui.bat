@@ -1,0 +1,1 @@
+java -classpath .\lib\*;.\bin quantik.gui.Quantik
